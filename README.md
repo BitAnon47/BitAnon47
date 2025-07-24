@@ -1,35 +1,12 @@
 # 💫 About Me:
-👋 Hi there! I'm a passionate Backend Developer who loves building scalable APIs and clean backend systems. I specialize in Node.js, and have solid hands-on experience with MongoDB, PostgreSQL, and SQL in general, using powerful ORMs like Sequelize and Mongoose to create complex, relational and document-based data models.
-
-Over time, I’ve expanded my skills into DevOps and React.js to complete my MERN stack journey and improve deployment workflows. I thrive on solving real-world problems through backend logic, modular architecture, and automation.
-
-I’ve worked on:
-
-🚀 Baked Blissed – A full-stack project where I built a complete backend structure for an online bakery store with authentication, product management, and role-based access. It follows clean MVC architecture and modular folder structure.
-
-🧠 AI Short Product Chatbot – Built a semantic search-based API using Pinecone (serverless vector DB) and Groq’s LLaMA3. It extracts product features, filters on budget, and intelligently suggests matches or fallbacks using conversational AI.
-
-🌐 Social Media Website – Developed complete backend from scratch using Node.js, Sequelize (with PostgreSQL):
-
-I love building systems that are clean, maintainable, and ready for scale.
-
-Recent Skills & Projects
-
-🔐 Built advanced authentication system with access/refresh tokens and session-based custom reset token storage.
-
-💬 Developed a semantic search chatbot API using Pinecone (serverless) and Groq’s LLaMA3 model with fallback logic.
-
-🧰 Mastered Sequelize ORM (associations, cascade delete, scopes, hooks, complex joins).
-
-🌐 Delivered a complete social media backend (nested comments, mentions, reactions, moderation).
-
-🗂️ Adopted clean, modular Node.js architecture (routes, controllers, services, middleware, schemas, validators).
-
-🧠 Researched and initiated design for a Jarvis-style Windows assistant using Node.js scripting and voice commands.
-
-🧪 Implemented language-aware centralized error handling and advanced conditionals using Sequelize operators.
-
-🖥️ Optimized Linux CLI-based development workflows.
+👋 Hi! I'm a Backend Developer focused on building scalable APIs and clean backend architectures using Node.js, Sequelize, and Mongoose.
+🧠 I specialize in database design with MongoDB, PostgreSQL, and advanced ORM techniques including associations, scopes, and hooks.
+🔧 I’ve expanded into DevOps, working with AWS, Azure, Docker, Vercel, and CI/CD for smooth deployments.
+🌐 On the frontend, I use React, Next.js, and also have solid experience with NestJS and .NET.
+🤖 Recently, I built an AI chatbot using Pinecone, LLMs (LLaMA3), and budget-aware semantic search.
+🧩 Key projects include a bakery eCommerce backend, a full-stack social media app, and a smart custom behaviour assistant.
+🚀 I thrive on modular design, automation, and building maintainable systems that are ready for scale.
+🛠️ Passionate about solving real-world problems with clean code and purposeful backend logic.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Muhammad.akash45) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_akash_zaheer) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-akash-zaheer/) 
