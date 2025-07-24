@@ -9,17 +9,7 @@ I’ve worked on:
 
 🧠 AI Short Product Chatbot – Built a semantic search-based API using Pinecone (serverless vector DB) and Groq’s LLaMA3. It extracts product features, filters on budget, and intelligently suggests matches or fallbacks using conversational AI.
 
-🌐 Social Media Website – Developed complete backend from scratch using Node.js, Sequelize (with PostgreSQL), featuring:
-
-Authentication (access/refresh token, session storage, reset flow)
-
-Post creation, nested comments (1-level), likes/dislikes
-
-Mentions with notification simulation, comment reactions
-
-Role-based access (admin/user) and moderation system
-
-Language-aware global error handling with Sequelize operators
+🌐 Social Media Website – Developed complete backend from scratch using Node.js, Sequelize (with PostgreSQL):
 
 I love building systems that are clean, maintainable, and ready for scale.
 
