@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 **Backend Developer** focused on building scalable APIs and clean backend architectures using **Node.js**, **Sequelize**, and **Mongoose**  
+👋Hi there! I'm a **Backend Developer** focused on building scalable APIs and clean backend architectures using **Node.js**, **Sequelize**, and **Mongoose**  
 - 🧠 Specialized in database design with **MongoDB**, **PostgreSQL**, and advanced **ORM techniques** (associations, scopes, hooks)  
 - 🔧 Experience in **DevOps** with tools like **AWS**, **Azure**, **Docker**, **Vercel**, and **CI/CD** for smooth deployments  
 - 🌐 Worked with frontend tools like **React**, **Next.js**, and have solid experience in **NestJS** and **.NET**  
