@@ -1,13 +1,12 @@
 # 💫 About Me:
-👋 Hi! I'm a Backend Developer focused on building scalable APIs and clean backend architectures using Node.js, Sequelize, and Mongoose.
-🧠 I specialize in database design with MongoDB, PostgreSQL, and advanced ORM techniques including associations, scopes, and hooks.
-🔧 I’ve expanded into DevOps, working with AWS, Azure, Docker, Vercel, and CI/CD for smooth deployments.
-🌐 On the frontend, I use React, Next.js, and also have solid experience with NestJS and .NET.
-🤖 Recently, I built an AI chatbot using Pinecone, LLMs (LLaMA3), and budget-aware semantic search.
-🧩 Key projects include a bakery eCommerce backend, a full-stack social media app, and a smart custom behaviour assistant.
-🚀 I thrive on modular design, automation, and building maintainable systems that are ready for scale.
-🛠️ Passionate about solving real-world problems with clean code and purposeful backend logic.
-
+- 👋 **Backend Developer** focused on building scalable APIs and clean backend architectures using **Node.js**, **Sequelize**, and **Mongoose**  
+- 🧠 Specialized in database design with **MongoDB**, **PostgreSQL**, and advanced **ORM techniques** (associations, scopes, hooks)  
+- 🔧 Experience in **DevOps** with tools like **AWS**, **Azure**, **Docker**, **Vercel**, and **CI/CD** for smooth deployments  
+- 🌐 Worked with frontend tools like **React**, **Next.js**, and have solid experience in **NestJS** and **.NET**  
+- 🤖 Built an **AI chatbot** using **Pinecone**, **LLMs (LLaMA3)**, and semantic search with intelligent fallback logic  
+- 🧩 Key projects include a bakery eCommerce backend, a full-stack social media platform, and a smart behavioral assistant  
+- 🚀 Thrive on **modular design**, **automation**, and building maintainable, scalable systems  
+- 🛠️ Passionate about solving real-world problems with **clean code** and purposeful backend logic  
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Muhammad.akash45) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_akash_zaheer) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-akash-zaheer/) 
 
