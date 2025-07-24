@@ -1,4 +1,5 @@
-# 💫 About Me:👋 Hi there! I'm a passionate Backend Developer who loves building scalable APIs and clean backend systems. I specialize in Node.js, and have solid hands-on experience with MongoDB, PostgreSQL, and SQL in general, using powerful ORMs like Sequelize and Mongoose to create complex, relational and document-based data models.
+# 💫 About Me:
+👋 Hi there! I'm a passionate Backend Developer who loves building scalable APIs and clean backend systems. I specialize in Node.js, and have solid hands-on experience with MongoDB, PostgreSQL, and SQL in general, using powerful ORMs like Sequelize and Mongoose to create complex, relational and document-based data models.
 
 Over time, I’ve expanded my skills into DevOps and React.js to complete my MERN stack journey and improve deployment workflows. I thrive on solving real-world problems through backend logic, modular architecture, and automation.
 
