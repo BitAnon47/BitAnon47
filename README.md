@@ -1,6 +1,44 @@
-# 💫 About Me:
-👋 Hi there! I'm a passionate Backend Developer with a focus on creating efficient and scalable APIs using Node.js and MongoDB. Currently exploring the world of DevOps to enhance my development and deployment workflows. I'm also diving into React.js to complete my MERN stack journey and bring ideas to life. When I’m not coding, you’ll find me sharpening my problem-solving skills and contributing to impactful projects like Baked Blissed. Let's build something amazing together!<br><br>
+# 💫 About Me:👋 Hi there! I'm a passionate Backend Developer who loves building scalable APIs and clean backend systems. I specialize in Node.js, and have solid hands-on experience with MongoDB, PostgreSQL, and SQL in general, using powerful ORMs like Sequelize and Mongoose to create complex, relational and document-based data models.
 
+Over time, I’ve expanded my skills into DevOps and React.js to complete my MERN stack journey and improve deployment workflows. I thrive on solving real-world problems through backend logic, modular architecture, and automation.
+
+I’ve worked on:
+
+🚀 Baked Blissed – A full-stack project where I built a complete backend structure for an online bakery store with authentication, product management, and role-based access. It follows clean MVC architecture and modular folder structure.
+
+🧠 AI Short Product Chatbot – Built a semantic search-based API using Pinecone (serverless vector DB) and Groq’s LLaMA3. It extracts product features, filters on budget, and intelligently suggests matches or fallbacks using conversational AI.
+
+🌐 Social Media Website – Developed complete backend from scratch using Node.js, Sequelize (with PostgreSQL), featuring:
+
+Authentication (access/refresh token, session storage, reset flow)
+
+Post creation, nested comments (1-level), likes/dislikes
+
+Mentions with notification simulation, comment reactions
+
+Role-based access (admin/user) and moderation system
+
+Language-aware global error handling with Sequelize operators
+
+I love building systems that are clean, maintainable, and ready for scale.
+
+Recent Skills & Projects
+
+🔐 Built advanced authentication system with access/refresh tokens and session-based custom reset token storage.
+
+💬 Developed a semantic search chatbot API using Pinecone (serverless) and Groq’s LLaMA3 model with fallback logic.
+
+🧰 Mastered Sequelize ORM (associations, cascade delete, scopes, hooks, complex joins).
+
+🌐 Delivered a complete social media backend (nested comments, mentions, reactions, moderation).
+
+🗂️ Adopted clean, modular Node.js architecture (routes, controllers, services, middleware, schemas, validators).
+
+🧠 Researched and initiated design for a Jarvis-style Windows assistant using Node.js scripting and voice commands.
+
+🧪 Implemented language-aware centralized error handling and advanced conditionals using Sequelize operators.
+
+🖥️ Optimized Linux CLI-based development workflows.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Muhammad.akash45) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_akash_zaheer) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-akash-zaheer/) 
